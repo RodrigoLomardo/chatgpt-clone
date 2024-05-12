@@ -33,7 +33,7 @@ export const ChatMessageInput = ({ disabled, onSend }: Props) => {
     }
 
     return (
-        <div className={`flex border border-gray-800/50 bg-gpt-lightgrat p-2 rounded-m
+        <div className={`flex border border-gray-800/50 bg-gpt-lightgray p-2 rounded-m
         ${disabled && 'opacity-50'}`}>
 
 
